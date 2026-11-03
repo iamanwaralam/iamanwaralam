@@ -12,11 +12,12 @@
 
 ## About me
 
-I'm a full-stack developer based in Dubai, working across **Next.js, React, Flutter, WordPress, and Shopify**. I build responsive websites, web applications, e-commerce experiences, and mobile apps with a strong focus on performance, SEO, accessibility, and maintainable code.
+I'm a full-stack developer based in Dubai, working across **Next.js, React, Kotlin Multiplatform, Flutter, WordPress, and Shopify**. I build responsive websites, web applications, e-commerce experiences, and cross-platform apps with a strong focus on performance, SEO, accessibility, and maintainable code.
 
 I also founded and run **[TechSavvyHelp](https://techsavvyhelp.com/)**, where I publish practical Windows 11 troubleshooting, monthly Windows Update coverage, and online scam-safety guides.
 
 - 🔭 Building modern web experiences for businesses and growing brands
+- 🛡️ Building **[Netcurb](https://github.com/iamanwaralam/netcurb-releases)**, a privacy-first per-app internet firewall (Linux released; Android, Windows and macOS coming)
 - 🧭 Owning projects from design and development through deployment and SEO
 - ✍️ Creating technical content, topic clusters, and repeatable publishing workflows
 - 📍 Based in Dubai, UAE and available for projects worldwide
@@ -39,8 +40,12 @@ I also founded and run **[TechSavvyHelp](https://techsavvyhelp.com/)**, where I 
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
-### Mobile & tools
+### Mobile, desktop & tools
 
+![Kotlin](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,6 +55,7 @@ I also founded and run **[TechSavvyHelp](https://techsavvyhelp.com/)**, where I 
 
 | Project | What I did | Stack |
 | --- | --- | --- |
+| **[Netcurb](https://github.com/iamanwaralam/netcurb-releases)** | Designed and built a per-app internet firewall from one shared codebase, with a native firewall engine per platform. No account, no data collected. Linux 1.1.0 released ([case study](https://iamanwaralam.github.io/projects/netcurb)). | Kotlin Multiplatform, Compose, nftables, GitHub Actions |
 | **[TechSavvyHelp](https://techsavvyhelp.com/)** | Founded and run a troubleshooting and online-safety publication, including content strategy, SEO, custom related guides, performance, and monthly Patch Tuesday coverage. | WordPress, Elementor, PHP, SEO |
 | **[Developer portfolio](https://iamanwaralam.github.io/)** | Designed and built my portfolio with project case studies, responsive interactions, accessible components, and automated GitHub Pages deployment. | React, TypeScript, Tailwind CSS |
 | **[Elementor SEO Kit](https://github.com/iamanwaralam/elementor-seo-kit)** | Reusable skills and workflows for researching, writing, and building SEO-focused WordPress and Elementor content. | WordPress, Elementor, SEO |
