@@ -13,15 +13,6 @@ Building reliable, high-performance websites, e-commerce platforms, and apps for
 
 ![Open to remote, hybrid, onsite, and freelance work](https://img.shields.io/badge/Open_to-Remote_·_Hybrid_·_Onsite_·_Freelance-16A34A?style=flat-square)
 
-<table>
-  <tr>
-    <td align="center" width="160"><h3>Since 2017</h3>building for web & mobile</td>
-    <td align="center" width="160"><h3>4</h3>products shipped</td>
-    <td align="center" width="160"><h3>11</h3>client sites delivered</td>
-    <td align="center" width="160"><h3>35%</h3>faster akiuae.com</td>
-  </tr>
-</table>
-
 </div>
 
 ## About me
