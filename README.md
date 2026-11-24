@@ -23,6 +23,10 @@ I'm a full-stack web developer in Dubai with a background across web and mobile 
 - 🔁 Led a **zero-downtime** DNS and hosting migration while keeping Microsoft 365 email running without interruption
 - 🛒 Run the [Esthica](https://esthica.com) Shopify store and built a **Next.js headless storefront** for [Beatryx](https://beatryx.com)
 - 📱 Started as an Android and Flutter developer, and still build and ship my own apps in **Kotlin Multiplatform** and Jetpack Compose
+- 🚀 Latest products I've built and shipped:
+  - 🛡️ **[Netcurb](https://github.com/iamanwaralam/netcurb-releases)**: per-app internet firewall for Android, Linux, and Windows, live on the [Microsoft Store](https://apps.microsoft.com/detail/9NRSVQMXJ23W)
+  - 📄 **[LetsEditPDF](https://letseditpdf.com)**: 80 free PDF and image tools that run entirely in the browser
+  - 📶 **Dualfon**: one-tap Android switch between Data-only, Calls-only, and Both modes
 - 🤖 Early adopter of AI-assisted engineering with **Claude Code** and **MCP** connectors for GitHub, Figma, and deployment tools
 - 📍 Based in Dubai, UAE · open to remote, hybrid, onsite, and freelance work
 
